@@ -1,0 +1,17 @@
+h1{
+    color: #fff000;
+    background-color: #f00;
+    display: flex;
+    justify-content: center;
+}
+body{
+    border:dotted;
+    background-color: #db7093;
+}
+p{
+    color: #fff;
+}
+.wrapit{
+    display: flex;
+    justify-content: wrap;
+}

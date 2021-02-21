@@ -1,0 +1,141 @@
+h1{
+    background-color: black;
+    color: #fff000;
+    display: flex;
+    justify-content: center ;
+}
+body{
+    border: double;
+    background-color:#dfb8b8 ;
+}
+p{
+    font-family:cursive;
+
+  color: #00f;
+}
+hr{
+    border: dashed;
+    
+}
+a:link{
+    color:#fff;
+}
+a:visited{
+    color: #fff000;
+}
+h3{
+    font-family: cursive;
+}
+.head{
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+}
+.topic{
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+}
+.subtopic{
+    font-family: cursive;
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+}
+.animal1{
+    display: flex;
+    justify-content: wrap;
+}
+
+.animal1 p{
+    margin-left: 100px;
+    padding-right: 100px;
+}
+.animal1 img{
+    margin-left: 50px;
+    padding-right: 100px;
+}
+.animal2{
+    display: flex;
+    justify-content: wrap;
+}
+.animal2 p{
+    margin-left: 100px;
+    padding-right: 100px;
+}
+.animal2 img{
+    margin-left: 50px;
+    padding-right: 100px;
+}
+.animal3{
+    display: flex;
+    justify-content: wrap;
+}
+.animal3 p{
+    margin-left: 100px;
+    padding-right: 100px;
+}
+.animal3 img{
+    margin-left: 50px;
+    padding-right: 100px;
+}
+.animal4{
+    display: flex;
+    justify-content: wrap;
+}
+.animal4 img{
+    margin-left: 50px;
+    padding-right: 100px;
+}
+.animal4 p{
+    margin-left: 170px;
+    padding-right: 100px;
+}
+.animal5{
+    display: flex;
+    justify-content: wrap;
+}
+.animal5 img{
+    margin-left: 50px;
+    padding-right: 100px;
+}
+.animal5 p{
+    margin-left: 160px;
+    padding-right: 100px;
+}
+.animal6{
+    display: flex;
+    justify-content: wrap;
+}
+.animal6 img{
+    margin-left: 50px;
+    padding-right: 100px;
+}
+.animal6 p{
+    margin-left: 160px;
+    padding-right: 100px;
+}
+.animal1 img:hover{
+    transform: scale(1.2);
+    opacity: 0.5;
+}
+.animal2 img:hover{
+    transform: scale(1.2);
+    opacity: 0.5;
+}
+.animal3 img:hover{
+    transform: scale(1.2);
+    opacity: 0.5;
+}
+.animal4 a:hover{
+    transform: scale(1.2);
+    opacity: 0.5;
+}
+.animal5 img:hover{
+    transform: scale(1.2);
+    opacity: 0.5;
+}
+.animal6 img:hover{
+    transform: scale(1.2);
+    opacity: 0.5;
+}
